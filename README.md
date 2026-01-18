@@ -118,3 +118,13 @@ Downstream repositories may reference licenses but may not redefine them.
 
 Licensing and permissions inquiries:  
 **data@hollowhouse.org**
+---
+
+## Governance Authority
+
+This repository operates under the canonical governance standard:
+
+**HHI-GOV-01 — Longitudinal Governance Infrastructure**  
+https://github.com/hollowhouseinstitute/HHI-GOV-01
+
+Governance authority is singular. No local policy supersedes HHI-GOV-01.
