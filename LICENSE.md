@@ -3,7 +3,9 @@
 Author: Amy Pierce Bui
 License Framework: CC BY-NC-SA 4.0 + Flame License 444-A
 Last Updated: 2025
-
+Governance Compliance:
+Licensee must comply with HHI_GOV_01 governance requirements.
+Failure to do so constitutes material breach.
 ⸻
 
 🔥 1. Overview
