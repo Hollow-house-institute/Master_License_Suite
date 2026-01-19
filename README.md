@@ -1,4 +1,7 @@
-
+> **Enforcement Authority**
+>
+> All reuse, derivation, implementation, or commercialization of Hollow House
+> governance standards or language is governed by this license suite.
 # Hollow House Institute — Master License Suite
 
 **Hollow House Institute**  
