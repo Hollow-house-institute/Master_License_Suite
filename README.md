@@ -6,7 +6,20 @@
 
 *Time turns behavior into infrastructure.*  
 *Behavior is the most honest data there is.*
+## Authority & Dependency Chain
 
+This repository provides the legal enforcement layer for the Hollow House Institute governance stack.
+
+Enforced authority order:
+1. Hollow_House_Institute — Root doctrine and institutional authority
+2. Hollow_House_Standards_Library — Canonical definitions and terminology
+3. HHI-GOV-01 — Governance standards and requirements
+4. HHI_LUL_01 — Language and terminology licensing
+5. Master_License_Suite — Legal enforcement of all upstream assets
+
+All licenses, permissions, and restrictions defined here apply to
+downstream use of Hollow House Institute standards, language, datasets,
+and governance artifacts.
 ## Canonical References
 
 - **HHI Governance Glossary**  
