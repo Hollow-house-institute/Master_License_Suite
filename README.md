@@ -9,6 +9,9 @@
 
 *Time turns behavior into infrastructure.*  
 *Behavior is the most honest data there is.*
+
+In the event of any conflict, ambiguity, or interpretive dispute, this Master License Suite governs all usage, derivation, enforcement, and commercialization of Hollow House Institute materials, incorporating HHI_GOV_01 and the Hollow House Standards Library by reference.
+
 ## Authority & Dependency Chain
 
 This repository provides the legal enforcement layer for the Hollow House Institute governance stack.
