@@ -1,0 +1,29 @@
+#############################################################
+# HHI MASTER LICENSE SUITE CODEOWNERS
+# Enforces approval authority for canonical license files
+#############################################################
+
+# Default Owner (entire repository)
+* @YOUR_GITHUB_USERNAME
+
+#############################################################
+# Canonical License Authority Files
+#############################################################
+
+LOCK_MANIFEST.md @YOUR_GITHUB_USERNAME
+CANONICAL_CHECKSUMS.txt @YOUR_GITHUB_USERNAME
+LICENSE.md @YOUR_GITHUB_USERNAME
+
+#############################################################
+# Core License Framework Files
+#############################################################
+
+APB* @YOUR_GITHUB_USERNAME
+HCUA* @YOUR_GITHUB_USERNAME
+HHI* @YOUR_GITHUB_USERNAME
+
+#############################################################
+# Governance Boundary Files
+#############################################################
+
+README.md @YOUR_GITHUB_USERNAME
