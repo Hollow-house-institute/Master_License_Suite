@@ -1,0 +1,22 @@
+# Master License Suite — Code Ownership
+
+# Default: all files require Human Authority review
+* @HHIHumanAuthority
+
+# Governance and authority artifacts
+AUTHORITY.md @HHIHumanAuthority
+GOVERNANCE_BINDING.md @HHIHumanAuthority
+LOCK_MANIFEST.md @HHIHumanAuthority
+CANONICAL_CHECKSUMS.txt @HHIHumanAuthority
+
+# License files
+LICENSE.md @HHIHumanAuthority
+LICENSE_*.md @HHIHumanAuthority
+
+# Administrative and protocol directories
+0_ADMIN/ @HHIHumanAuthority
+1_THEORY/ @HHIHumanAuthority
+2_PROTOCOLS/ @HHIHumanAuthority
+
+# GitHub configuration
+.github/ @HHIHumanAuthority
