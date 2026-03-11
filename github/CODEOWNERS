@@ -1,0 +1,21 @@
+# Master License Suite — Authority-Enforced Ownership
+
+# Canonical Legal Authority
+/LEGAL/**                 @HHIHumanAuthority
+/HHI-GFL-v1.0.md         @HHIHumanAuthority
+/HHI-LIC-01.md           @HHIHumanAuthority
+/LICENSE.md              @HHIHumanAuthority
+/LICENSE_INDEX.md        @HHIHumanAuthority
+/LICENSE_MATRIX.md       @HHIHumanAuthority
+/GOVERNANCE_BINDING.md   @HHIHumanAuthority
+/GOVERNING_LAW_CLAUSE.md @HHIHumanAuthority
+
+# Execution & Tooling
+/**                      @hhidatasettechs-oss
+
+# Review Authority (Non-blocking)
+/LICENSE.md              @hhireviewauthority
+/LICENSE_INDEX.md        @hhireviewauthority
+/LICENSE_MATRIX.md       @hhireviewauthority
+/GOVERNANCE_BINDING.md   @hhireviewauthority
+/GOVERNING_LAW_CLAUSE.md @hhireviewauthority
