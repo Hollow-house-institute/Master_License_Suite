@@ -1,17 +1,21 @@
-# LOCK MANIFEST — MASTER LICENSE SUITE
+# Master License Suite — LOCK MANIFEST
 
-Artifact: Master License Suite
-Repository: Master_License_Suite
-Authority: Hollow House Institute
-Status: LOCKED (canonical, read-only)
+This manifest enumerates all license and governance artifacts whose
+presence, structure, and integrity are locked for reproducible legal
+interpretation and auditability.
 
-This repository defines the legal enforcement layer
-for all Hollow House Institute governance systems.
-
-It governs reuse, derivation, training rights,
-commercial licensing, and downstream usage.
-
-No modification, extension, or reinterpretation
-is permitted without a versioned governance release.
-
-Lock Date: 2026-02-04
+## Locked Artifacts
+- LICENSE.md
+- HHI-GFL-v1.0.md
+- HHI-LIC-01.md
+- LICENSE_INDEX.md
+- LICENSE_MATRIX.md
+- GOVERNANCE_BINDING.md
+- GOVERNING_LAW_CLAUSE.md
+- ATTESTATION.md
+- COUNSEL_BRIEF.md
+- LICENSE_BINDING_SCHEMA.md
+- CANONICAL_CHECKSUMS.txt
+- LOCKED_FILES.md
+- LOCK_MANIFEST.md
+- CHANGELOG.md
