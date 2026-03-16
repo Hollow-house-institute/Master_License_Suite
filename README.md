@@ -51,7 +51,6 @@ In the event of conflict, this repository prevails.
 >
 > Authoritative governance and licensing instruments:
 > https://github.com/hollowhouseinstitute/Master_License_Suite
-git add glossary.md
 git commit -m "Update governance glossary to v1.1.0 (behavioral infrastructure + cross-links)"
 git push origin main
 git tag v1.1.0-governance-glossary
