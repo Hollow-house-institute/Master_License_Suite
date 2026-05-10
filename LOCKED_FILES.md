@@ -16,7 +16,7 @@ Authority: Hollow House Institute
 ## Governance & Terminology Binding
 Terminology inherits definitions from:  
 AI Governance Glossary v1.3.0 — Hollow House Institute  
-https://github.com/hhidatasettechs-oss/Hollow_House_Standards_Library  
+https://github.com/Hollow-house-institute/Hollow_House_Standards_Library  
 
 Terms must not be reinterpreted, substituted, or redefined.
 

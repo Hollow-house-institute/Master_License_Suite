@@ -152,7 +152,7 @@ Governance authority is singular. No local policy supersedes HHI-GOV-01.
 This repository aligns with the Hollow House Institute governance framework.
 
 Canonical reference:
-https://github.com/hhidatasettechs-oss/Hollow_House_Standards_Library
+https://github.com/Hollow-house-institute/Hollow_House_Standards_Library
 
 Enforced terms:
 - behavioral-ai-governance
@@ -167,7 +167,7 @@ All terminology must remain consistent with the canonical glossary.
 ## Governance & Terminology Binding
 Terminology inherits definitions from:  
 AI Governance Glossary v1.3.0 — Hollow House Institute  
-https://github.com/hhidatasettechs-oss/Hollow_House_Standards_Library  
+https://github.com/Hollow-house-institute/Hollow_House_Standards_Library  
 
 Terms must not be reinterpreted, substituted, or redefined.
 
@@ -187,7 +187,7 @@ Governance Standard: https://github.com/Hollow-house-institute/HHI_GOV_01
 
 SYSTEM MAP: https://github.com/Hollow-house-institute/HHI_GOV_01/blob/main/SYSTEM_MAP.md
 
-DOI: https://doi.org/10.5281/zenodo.18615600
+DOI: https://doi.org/10.5281/zenodo.1876466
 
 ORCID: https://orcid.org/0009-0009-4806-1949
 

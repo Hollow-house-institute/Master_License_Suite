@@ -26,7 +26,7 @@ The repository structure is sound but several inconsistencies weaken authority s
 
 Canonical terminology authority:
 
-https://github.com/hhidatasettechs-oss/Hollow_House_Standards_Library
+https://github.com/Hollow-house-institute/Hollow_House_Standards_Library
 
 Licensing artifacts correctly reference governance standards without redefining terminology.
 
@@ -57,7 +57,7 @@ Some documentation references legacy organization names.
 
 Canonical organization:
 
-https://github.com/hhidatasettechs-oss
+https://github.com/Hollow-house-institute
 
 Impact of legacy references:
 
@@ -158,7 +158,7 @@ After remediation the repository will present stronger authority signals for res
 ## Governance & Terminology Binding
 Terminology inherits definitions from:  
 AI Governance Glossary v1.3.0 — Hollow House Institute  
-https://github.com/hhidatasettechs-oss/Hollow_House_Standards_Library  
+https://github.com/Hollow-house-institute/Hollow_House_Standards_Library  
 
 Terms must not be reinterpreted, substituted, or redefined.
 
