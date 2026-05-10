@@ -15,3 +15,9 @@ data/samples/*
 AUDIT_gitleaks.json
 AUDIT_identity_drift.txt
 
+
+*.pid
+__pycache__/
+*.pyc
+runtime/logs/*.pid
+logs/*.pid

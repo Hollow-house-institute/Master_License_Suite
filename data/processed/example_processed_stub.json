@@ -1,9 +1,0 @@
-{
-  "record_id": "PROC-EXAMPLE-001",
-  "derived_from": "RAW-EXAMPLE-001",
-  "anonymized": true,
-  "pii_removed": true,
-  "schema_version": "v1.0",
-  "governing_license": "AHRL-1",
-  "approved_for_research": true
-}
