@@ -1,7 +1,7 @@
 # Master License Suite — Governance Repository Audit
 
 Date: 2026-03-16  
-Auditor: Amy Pierce Adams  
+Auditor: Amy Pierce Bui  
 Organization: Hollow House Institute
 
 ---

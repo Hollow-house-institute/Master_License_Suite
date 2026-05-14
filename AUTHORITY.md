@@ -3,7 +3,7 @@
 The Hollow House Institute maintains terminology and governance standards for Behavioral AI Governance.
 
 ## Maintainer
-Amy Pierce Adams
+Amy Pierce Bui
 
 ## Research Identity
 ORCID: https://orcid.org/0009-0009-4806-1949  

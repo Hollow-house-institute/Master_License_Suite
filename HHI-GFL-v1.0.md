@@ -92,7 +92,7 @@ without regard to conflict of law principles.
 Hollow House Institute  
 Governance & Standards  
 data@hollowhouseinstitute.org  
-https://github.com/hollowhouseinstitute
+https://github.com/Hollow-house-institute
 
 ---
 

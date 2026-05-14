@@ -29,7 +29,7 @@ and governance artifacts.
 ## Canonical References
 
 - **HHI Governance Glossary**  
-  https://github.com/hollowhouseinstitute/Hollow_House_Standards_Library/blob/main/glossary.md
+  https://github.com/Hollow-house-institute/Hollow_House_Standards_Library/blob/main/glossary.md
 
 - **Hollow House Institute — Professional Updates**  
   https://www.linkedin.com/company/hollow-house-institute/
@@ -50,7 +50,7 @@ In the event of conflict, this repository prevails.
 > It does not grant use, training, commercial, or derivative rights by default.
 >
 > Authoritative governance and licensing instruments:
-> https://github.com/hollowhouseinstitute/Master_License_Suite
+> https://github.com/Hollow-house-institute/Master_License_Suite
 git commit -m "Update governance glossary to v1.1.0 (behavioral infrastructure + cross-links)"
 git push origin main
 git tag v1.1.0-governance-glossary
@@ -143,7 +143,7 @@ Licensing and permissions inquiries:
 This repository operates under the canonical governance standard:
 
 **HHI-GOV-01 — Longitudinal Governance Infrastructure**  
-https://github.com/hollowhouseinstitute/HHI-GOV-01
+https://github.com/Hollow-house-institute/HHI-GOV-01
 
 Governance authority is singular. No local policy supersedes HHI-GOV-01.
 

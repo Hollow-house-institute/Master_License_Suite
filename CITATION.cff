@@ -6,8 +6,8 @@ authors:
   - family-names: Adams
     given-names: Amy Pierce
     affiliation: Hollow House Institute
-repository-code: https://github.com/hhidatasettechs-oss/Master_License_Suite
-url: https://github.com/hhidatasettechs-oss/Master_License_Suite
+repository-code: https://github.com/Hollow-house-institute/Master_License_Suite
+url: https://github.com/Hollow-house-institute/Master_License_Suite
 abstract: "The Master License Suite defines the licensing and enforcement layer for the Hollow House Institute governance ecosystem, governing the use of datasets, terminology, governance standards, and associated research artifacts."
 license: "Proprietary"
 keywords:
